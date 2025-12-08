@@ -18,6 +18,7 @@
 #define GUMPP_MAX_SYMBOL_NAME 2048
 
 #include <cstddef>
+#include <cstdint>
 #include <functional>
 #include <memory>
 #include <vector>
